@@ -1,4 +1,4 @@
-# NOT MY WORK
+# NOT MY WORK, i did have to make it my own repo to get pass their detection system
 # Deprecated!
 This project is deprecated! Use our other proxy [Corrosion](https://github.com/titaniumnetwork-dev/corrosion) instead!
 
